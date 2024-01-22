@@ -12,17 +12,17 @@ body {
 
 @font-face {
     font-family: 'mutka';
-    src: url(../Mukta/Mukta-Bold.ttf);
+    src: url(../Fonts/Mukta/Mukta-Bold.ttf);
 }
 
 @font-face {
     font-family: 'ubuntu';
-    src: url(../Ubuntu/Ubuntu-Bold.ttf);
+    src: url(../Fonts/Ubuntu/Ubuntu-Bold.ttf);
 }
 
 @font-face {
     font-family: 'sora';
-    src: url(../Sora/Sora-Bold.ttf);
+    src: url(../Fonts/Sora/);
 }
 
 ul.navbar {
